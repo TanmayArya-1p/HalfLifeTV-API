@@ -4,3 +4,4 @@
 * Bug Fixes to `PlayerStats.Matches()`
 * Statistics for `LiveMatch` and `CompletedMap`
 * GameLog Listeners for `LiveMatch`
+* API Documentation
