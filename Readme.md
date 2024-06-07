@@ -1,3 +1,4 @@
+[DEPRECATED]
 ## 🚧 DEVELOPMENT IN PROGRESS 🚧
 
 ### Yet to Come:
